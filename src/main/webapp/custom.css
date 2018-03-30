@@ -1,0 +1,41 @@
+.addFormBlock {
+    height: 80px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.updateFormBlock {
+    height: 80px;
+    width: 300px;
+    margin-left: 410px;
+    margin-top: -80px;
+}
+.getFormBlock {
+    height: 80px;
+    width: 300px;
+    margin-left: 810px;
+    margin-top: -80px;
+}
+.deleteFormBlock {
+    height: 80px;
+    width: 300px;
+    margin-left: 810px;
+    margin-top: 10px;
+}
+.listFormBlock {
+    height: 80px;
+    width: 300px;
+    margin-left: 810px;
+    margin-top: 30px;
+}
+#leftGetButton{
+    margin-top: -55px;
+    margin-left: 320px;
+}
+#leftDeleteButton{
+    margin-top: -55px;
+    margin-left: 320px;
+}
+#leftListButton{
+    width: 400px;
+}
